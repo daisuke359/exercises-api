@@ -1,0 +1,18 @@
+.exercise {
+    background-color: white;
+    width: 20%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.exercise-title {
+    text-align: center;
+}
+
+.exercise-part {
+    text-align: center;
+} 
+
+.exercise > img {
+    width: 100%;
+}
